@@ -1,5 +1,6 @@
 {
   "name": "@scaleleap/pg-format",
+  "version": "0.0.0",
   "description": "TypeScript Project Template",
   "license": "MIT",
   "author": {
@@ -15,7 +16,6 @@
   "bugs": {
     "url": "https://github.com/ScaleLeap/pg-format/issues"
   },
-  "version": "0.0.0",
   "main": "lib/index.js",
   "files": [
     "/lib"
@@ -34,7 +34,7 @@
   },
   "types": "lib/index.d.ts",
   "devDependencies": {
-    "@scaleleap/utils": "1.9.25",
+    "@scaleleap/utils": "1.9.34",
     "@types/jest": "26.0.23",
     "@types/node": "13.13.51",
     "danger": "10.6.4",
