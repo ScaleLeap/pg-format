@@ -1,6 +1,6 @@
 {
   "name": "@scaleleap/pg-format",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A fully typed TypeScript and Node.js implementation of PostgreSQL format() to safely create dynamic SQL queries. SQL identifiers and literals are escaped to help prevent SQL injection.",
   "license": "MIT",
   "author": {
