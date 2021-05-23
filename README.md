@@ -1,5 +1,14 @@
 # 📦 @scaleleap/pg-format
 
+[![NPM](https://img.shields.io/npm/v/@scaleleap/pg-format)](https://npm.im/@scaleleap/pg-format)
+[![License](https://img.shields.io/npm/l/@scaleleap/pg-format)](./LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ScaleLeap/pg-format/Release)](https://github.com/ScaleLeap/pg-format/actions)
+[![Codecov](https://img.shields.io/codecov/c/github/scaleleap/pg-format)](https://codecov.io/gh/ScaleLeap/pg-format)
+[![Snyk](https://img.shields.io/snyk/vulnerabilities/github/scaleleap/pg-format)](https://snyk.io/test/github/scaleleap/pg-format)
+[![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+
+---
+
 A fully typed TypeScript and Node.js implementation of
 [PostgreSQL format()](http://www.postgresql.org/docs/9.3/static/functions-string.html#FUNCTIONS-STRING-FORMAT)
 to safely create dynamic SQL queries. SQL identifiers and literals are escaped to help prevent SQL
@@ -140,12 +149,3 @@ This repository uses [Conventional Commit](https://www.conventionalcommits.org/)
 ## License
 
 This project is licensed under the MIT License.
-
-## Badges
-
-[![NPM](https://img.shields.io/npm/v/@scaleleap/pg-format)](https://npm.im/@scaleleap/pg-format)
-[![License](https://img.shields.io/npm/l/@scaleleap/pg-format)](./LICENSE)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ScaleLeap/pg-format/CI)](https://github.com/ScaleLeap/pg-format/actions)
-[![Codecov](https://img.shields.io/codecov/c/github/scaleleap/typescript-template)](https://codecov.io/gh/ScaleLeap/pg-format)
-[![Snyk](https://img.shields.io/snyk/vulnerabilities/github/scaleleap/typescript-template)](https://snyk.io/test/github/scaleleap/typescript-template)
-[![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
