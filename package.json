@@ -47,8 +47,15 @@
     "typescript": "4.2.4"
   },
   "keywords": [
-    "template",
-    "typescript"
+    "escape",
+    "format",
+    "pg",
+    "pg-escape",
+    "pg-format",
+    "postgres",
+    "postgresql",
+    "query",
+    "sql injection"
   ],
   "publishConfig": {
     "access": "public"
