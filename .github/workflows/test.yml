@@ -24,7 +24,7 @@ jobs:
           - 16
         os:
           - ubuntu-latest
-          # - macOS-latest
+          - macOS-latest
           - windows-latest
 
     steps:
